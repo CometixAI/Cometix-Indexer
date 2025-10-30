@@ -2,7 +2,6 @@
   "name": "cometix-indexer",
   "version": "0.0.1",
   "description": "Cometix Indexer - MCP server for semantic codebase search with Cursor API integration",
-  "type": "module",
   "bin": {
     "cometix-indexer": "dist/index.js"
   },
